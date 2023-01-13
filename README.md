@@ -30,10 +30,9 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 - Grid;
 - Responsive Desgin;
 
-## Test the project on your device: [Teste the project here!!!](#)
+## Test the project on your device: [Teste the project here!!!](https://grid-testimonials-one.vercel.app/)
 
 - Min-widths: 1040px - 375px
-- My Solution URL: [Challenge Solution](#)
 
 ## Author
 
